@@ -1,17 +1,5 @@
-# Front End Starter
-
-## Overview
-
-This template repository contains several opinionated, 'starter' files and settings to help students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
-
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
-
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-3. [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
-
-Testing with [Jest](https://jestjs.io/docs/en/getting-started) is also included along with appropriate extensions.
-
+# Weather App
+this is a weather app which will be done first in vanilla JS then later in React. Stay tuned.
 ## Get Started
 
 **First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per [this guide...](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-for-JS-02a4e9f4a30043d3a8e7d109be3448f4)
